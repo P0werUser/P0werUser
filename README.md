@@ -17,10 +17,8 @@ My focus is on automation with PowerShell, networking, and cybersecurity basics.
 
 ## 🎓 Certifications
 
-- CompTIA A+ (Expected 2025)  
-- Microsoft Certified: Azure Fundamentals  
-- Cisco CCNA (in progress)  
-- [Other relevant certifications]
+- CompTIA A+
+- CompTIA Network+ (progress)  
 
 ## 📂 Projects
 
