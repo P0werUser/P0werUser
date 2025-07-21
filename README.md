@@ -8,7 +8,7 @@ My focus is on automation with PowerShell, networking, and cybersecurity basics.
 ## 🚀 Skills & Tools
 
 - 💻 Windows & Linux Operating Systems  
-- ⚙️ PowerShell & Bash Scripting  
+- ⚙️ PowerShell Scripting 
 - 🖥️ Active Directory & Network Infrastructure  
 - 📦 Docker & Virtualization  
 - 🔐 Basic Cybersecurity knowledge
